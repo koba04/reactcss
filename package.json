@@ -43,7 +43,6 @@
     "css-loader": "^0.14.5",
     "highlight.js": "^8.6.0",
     "html-loader": "^0.3.0",
-    "install": "^0.4.0",
     "jest": "^19.0.2",
     "jsx-loader": "^0.13.2",
     "markdown-loader": "^0.1.2",
